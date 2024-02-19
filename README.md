@@ -29,14 +29,25 @@
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
+## Coding Platforms:
+<a href="https://https://leetcode.com/ydavprashant//" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/Leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+<a href="https://https://www.hackerrank.com/profile/ydvprashant0508//" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  
+<br>
 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=B+y+e+!+!)](https://git.io/typing-svg)
