@@ -39,7 +39,7 @@
 <br>
 
 ## Coding Platforms:
-<a href="https://www.leetcode.com/ydavprashant//" target="_blank">
+<a href="https://www.leetcode.com/ydavprashant/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Leetcode-E4405F?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 <a href="https://www.hackerrank.com/profile/ydvprashant0508//" target="_blank">
