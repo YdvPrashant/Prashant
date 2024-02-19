@@ -39,4 +39,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=See+you+again+!+!+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFF&size=29&multiline=true&width=700&lines=B+y+e+!+!)](https://git.io/typing-svg)
