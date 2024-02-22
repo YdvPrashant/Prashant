@@ -6,6 +6,7 @@
 - 👓 I’m always looking to learn new technologies and to improve my skills.
 - 👋 I’m looking to collaborate More on Real World Problems and OpenSource.
 - 🤝 I'm a team player and I enjoy working collaboratively with others.
+<br>
 
 ## Links:
 <a href="https://www.youtube.com" target="_blank">
